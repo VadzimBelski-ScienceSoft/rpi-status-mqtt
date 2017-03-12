@@ -1,7 +1,7 @@
 # rpi-status-mqtt
 Rasperry PI status CPU , RAM, Disk
 
-You will need Python 2.7
+You will need Python 2.7 pip to be installed
 
 ```bash
 sudo apt install python-pip
