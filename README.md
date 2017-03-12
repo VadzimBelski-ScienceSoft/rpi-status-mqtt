@@ -4,7 +4,7 @@ Rasperry PI status CPU , RAM, Disk
 You will need Python 2.7
 
 ```bash
-apt install python-pip
+sudo apt install python-pip
 ```
 
 Also Paho MQTT library
